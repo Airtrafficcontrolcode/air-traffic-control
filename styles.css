@@ -1,0 +1,30 @@
+body{
+  padding: 25px;
+  background-image: url('glowing-modern-blue-mesh-gradient-background_794573-1136.jpg');
+	background-repeat: no-repeat;
+  
+}
+.title {
+	color: #13eb50;
+text-shadow: 0 0 10px #5C6AC4, 0 0 20px;
+
+}
+
+
+.main {
+  background-color: transparent; /* Must be semi-transparent to see the blur */
+  backdrop-filter: blur(1px);               /* Applies the blur effect */
+  -webkit-backdrop-filter: blur(5px);        /* Required for some browsers like Safari */
+  padding: 20px;
+  border-radius: 5px;
+  border: 1.5px solid #41434a;
+  box-shadow: 0 4px 30px black;
+  height: 100px;
+  witgh: 40px;
+}
+
+.head {
+  color: #1260de;
+text-shadow: 0 0 10px #de7412;
+  
+}
