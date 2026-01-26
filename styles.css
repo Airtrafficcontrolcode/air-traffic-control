@@ -2,6 +2,7 @@ body {
   padding: 25px;
   background-image: url('minimalistic-glassmorphism-design-with-abstract-gradient-spheres-subtle-pastel-shades_171508-6119.jpg');
   background-size: cover;
+  background-attachment: fixed;
   
 }
 
