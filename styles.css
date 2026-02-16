@@ -22,7 +22,6 @@ pointer-events: none;
 
 .glass-wraper {
   position: relative;
-  overflow: hidden;
 width: 101vw;
 }
 
